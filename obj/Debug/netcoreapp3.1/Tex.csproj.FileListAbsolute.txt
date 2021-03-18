@@ -1,0 +1,11 @@
+C:\Users\daniel\Desktop\Tex\bin\Debug\netcoreapp3.1\Tex.deps.json
+C:\Users\daniel\Desktop\Tex\bin\Debug\netcoreapp3.1\Tex.dll
+C:\Users\daniel\Desktop\Tex\bin\Debug\netcoreapp3.1\Tex.pdb
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.csprojAssemblyReference.cache
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.AssemblyInfoInputs.cache
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.AssemblyInfo.cs
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.csproj.CoreCompileInputs.cache
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.dll
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.pdb
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\APPOperacion.Form1.resources
+C:\Users\daniel\Desktop\Tex\obj\Debug\netcoreapp3.1\Tex.csproj.GenerateResource.cache
